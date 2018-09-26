@@ -1,0 +1,32 @@
+{
+	"title" : "Experiences",
+	"experience" : [
+		{
+			"timeperiod" : "Juillet 2018 - Aujourd'hui",
+			"company" : "Subteno-it",
+			"description" : "Développpeur full stack en alternance, je travaille sur l'ERP Odoo qui évolue avec les technologies XML,JavaScript,Python. J'analyse les besoins clients et je les développe afin de répondre à leurs attentes. "
+		},
+		{
+			"timeperiod" : "Février 2018 - Avril 2018",
+			"company" : "N2P",
+			"description" : "Stagiaire chef de projet web et growth hacking. J'étais en charge la mise en place du projet Noob2Pro qui est une start-up évoluant dans le marché du Esport. Je devais établir le businness plan, cahier des charges ainsi que le plan marketing et Webmarkeing. "
+
+		},
+		{
+			"timeperiod": "Février 2017 - Aujourd'hui (oui oui toujours)",
+			"company": "Freelance - CTinformatique",
+			"description": "Ayant le goût d'entreprendre j'ai crée ma micro-entreprise évoluant dans le secteur du dépannage informatique, installation, création de site web mais aussi dans le conseil en communication et webmarketing. "
+		},
+		{
+			"timeperiod": "Octobre 2016 - Janvier 2017",
+			"company": "Lums Global",
+			"description": "Lums Global est une start-up alençonnaise, spécialisée dans la cyber-sécurité. J’étais responsable de mettre en place la stratégie commerciale de l’entreprise et de l’appliquer. Lums Global commercialise un pare-feu UTM nouvelle génération à destination des particuliers et TPE. J’ai activement fait de la prospection physique et téléphonique sur une cible de très petites entreprises ainsi que le démarchage de revendeurs informatiques afin de créer et d’animer un réseau de revendeurs. "
+		},
+		{
+			"timeperiod": "Juillet 2014 - Août 2016",
+			"company": "Orange SA",
+			"description": "Chez Orange ma priorité était la satisfaction client et le parcours client en boutique. J’étais en charge le conseil et la vente auprès des clients professionnels et particuliers. Pendant 6 mois dans le cadre de mon BTS négociation relation clients, j’ai mis en place un projet commercial de promotion et de développement d’un terminal de paiement bancaire nomade. J’ai aussi appris des notions en réseau (routage, modem, vpn) fonctionnement du Web et internet. "
+		}
+		
+	]
+}

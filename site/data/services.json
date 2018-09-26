@@ -1,0 +1,15 @@
+{
+	"title" : "Services",
+	"services" : [
+		{
+			"icon" : "pencil-ruler",
+			"title" : "Création de site Web",
+			"description" : "Je propose la création de votre site d'entreprise, e-commerce, blog, associatif ou bien communautaire. Crééons, communiquons !"
+		},
+		{
+			"icon" : "pen-nib",
+			"title" : "Communication, gestion",
+			"description" : "Améliorer vos process interne ainsi que votre communication web afin d'être plus efficient et efficace. "
+		}
+	]
+}

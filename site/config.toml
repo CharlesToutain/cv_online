@@ -1,0 +1,5 @@
+baseURL = "/"
+languageCode = "fr"
+title = "Charles-Edouard"
+theme = "hugo-uilite"
+
