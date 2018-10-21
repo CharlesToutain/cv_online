@@ -2,9 +2,11 @@
 	"title" : "Compétences",
 	"skills" : {
 		"HTML/CSS" : "90",
-		"JS" : "30",
+		"JS" : "50",
+		"REACT": "30",
 		"Python" : "30",
 		"UX/UI" : "25",
-		"CRM": "80"
+		"CRM": "80",
+		"ERP": "30"
 	}
 }
