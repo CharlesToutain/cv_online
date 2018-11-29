@@ -10,6 +10,16 @@
 			"icon" : "pen-nib",
 			"title" : "Communication, gestion",
 			"description" : "Améliorer vos process interne ainsi que votre communication web afin d'être plus efficient et efficace. "
+		},
+		{
+			"icon" : "fas fa-magic",
+			"title" : "Développement",
+			"description" : "Je me propose en tant que Free-lance pour toutes sortes de développement JS et intégration HTML/CSS/SASS "
+		},
+		{
+			"icon" : "far fa-bezier-curve",
+			"title" : "Automation Marketing",
+			"description" : "Mise en place de méthode growth hacking et d'automatisation (bot, botmessenger,emailing..)"
 		}
 	]
 }
