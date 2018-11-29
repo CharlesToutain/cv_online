@@ -34,12 +34,12 @@ a{
 
 
 .button:hover {
-    background: #00fefe;
+    background: #21D4FD;
 }
 
 .button:active,
 .button:focus {
-    background: #00fefe;
+    background: #21D4FD;
     outline: none;
 }
 
@@ -49,16 +49,16 @@ a{
 
 
 .email {
-    background: #00fefe;
+    background: #B721FF;
 }
 
 .email:hover {
-    background: #aaffa7;
+    background: #21D4FD;
 }
 
 .email:active,
 .email:focus {
-    background: #aaffa7;
+    background: #21D4FD;
 }
 
 .email:after {
@@ -112,4 +112,36 @@ a{
     to {
         transform: rotate(30deg);
     }
+}
+
+section.aqua{
+    background-color: #21D4FD;
+    background-image: linear-gradient(315deg, #21D4FD 0%, #B721FF 100%);
+
+
+}
+
+section.green{
+    background-color: #21D4FD;
+    background-image: linear-gradient(147deg, #21D4FD 0%, #B721FF 100%);
+}
+
+section.blue {
+    background-color: #21D4FD;
+}
+
+.progress .bg-blue{
+    background-color: #21D4FD;
+}
+
+.highlight{
+    background-color: #B721FF;
+}
+
+.fa, .fas{
+    color:#B721FF;
+}
+
+.violet{
+    background-color: #B721FF;
 }
