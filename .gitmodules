@@ -1,0 +1,3 @@
+[submodule "site/site/themes/kross-hugo"]
+	path = site/site/themes/kross-hugo
+	url = https://github.com/themefisher/kross-hugo-portfolio-template.git

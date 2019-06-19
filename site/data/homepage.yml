@@ -1,0 +1,166 @@
+# banner
+banner:
+  title : "Hey! I’m <br> Charles-Edouard Toutain <br> Consultant IT"
+  socialLinks:
+    - icon : "ti-linkedin"
+      URL : "#"
+      
+
+# about
+about:
+  enable : true
+  content : "Bonjour, j'ai 23 ans et je suis Free-lance en tant que consultant IT. Je propose mes services dans la conception de site E-commerce, mais aussi de site vitrine. Avec un background commercial/marketing je me suis orienté
+  vers le métier de développeur. Actuellement je termine mon master de management en projets numériques que j'effectue en alternance dans l'entreprise Subteno IT."
+  button:
+    btnText : "Vous voulez plus d'informations ?"
+    URL : "/about"
+
+# skill
+skill:
+  enable : true
+  skillbar:
+    - title : "Python"
+      progress : "70%"
+      color : "#fdb157"
+      
+    - title : "JavaScript"
+      progress : "60%"
+      color : "#9473e6"
+      
+    - title : "HTML/CSS/SASS"
+      progress : "80%"
+      color : "#bdecf6"
+      
+    - title : "ERP/CRM"
+      progress : "50%"
+      color : "#ffbcaa"
+
+# experience
+experience:
+  enable : true
+  item: 
+    - logo : "images/experience/icon-1.png"
+      title : "Freelance"
+      company : "CTinformatique"
+      duration : "Jan 2017 - Aujourd'hui"
+      
+    - logo : "images/experience/icon-2.png"
+      title : "Ingénieur technico-commercial"
+      company : "LUMS GLOBAL"
+      duration : "Septembre 2016 - Janvier 2017"
+      
+    - logo : "images/experience/icon-1.png"
+      title : "Développeur ERP/CRM Odoo"
+      company : "Subteno IT"
+      duration : "Juillet 2018 - Aujourd'hui"
+
+# formation
+formation:
+  enable : true
+  item:
+    - title : "BTS négociation relation client"
+      year : "2014-2016"
+      academy : "3IFA Alençon"
+      
+    - title : "Licence Chef de projet web et conception de site"
+      year : "2017-2018"
+      academy : "FIM CCI formation"
+      
+    - title : "Master management en projets numériques et entrepreunariats"
+      year : "2018-2020"
+      academy : "FIM CCI formation"
+      
+# service
+service:
+  enable : true
+  item : 
+    - title : "Web"
+      icon : "ti-palette"
+      content : "Conception de site web E-commerce ou vitrine. Accompagnement et mise en place de solutions performantes pour votre business."
+      highlighted : false
+
+    - title : "Développement"
+      icon : "ti-vector"
+      content : "Si vous êtes une agence ou que vous recherchez un développeur, je peux réaliser des tâches de développements. JavaScript, PHP, Python."
+      highlighted : true
+
+    - title : "Gestions | Performances"
+      icon : "ti-panel"
+      content : "Mise en place d'applications métiers (ERP/CRM) Dolibarr. Ou encore de script pour faire du web scraping par exemple."
+      highlighted : false
+
+# portfolio
+portfolio:
+  enable : true
+  item:
+    - image : "images/portfolio/item-1.png"
+      projectURL : "#"
+      
+    - image : "images/portfolio/item-2.png"
+      projectURL : "#"
+      
+    - image : "images/portfolio/item-3.png"
+      projectURL : "#"
+      
+    - image : "images/portfolio/item-4.png"
+      projectURL : "#"
+      
+    - image : "images/portfolio/item-5.png"
+      projectURL : "#"
+
+# testimonial
+testimonial:
+  enable : true
+  item:
+    - name : "Jesica Gomez"
+      image : "images/testimonial/client-1.png"
+      designation : "CEO, Funder"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      
+    - name : "Shirley Scot"
+      image : "images/testimonial/client-1.png"
+      designation : "CEO, Funder"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      
+    - name : "Jessica Julie"
+      image : "images/testimonial/client-1.png"
+      designation : "CEO, Funder"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+
+# client slider
+clientSlider:
+  enable : true
+  item:
+    - logo : "images/clients-logo/client-logo-1.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-2.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-3.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-4.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-5.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-1.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-2.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-3.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-4.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-5.png"
+      URL : "#"
+
+# blog
+blog:
+  enable : true

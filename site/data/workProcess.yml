@@ -1,0 +1,12 @@
+step:
+  - title : "Etude et cadrage"
+    icon : "images/icons/plan.png"
+    content : "Tout au long du processus nous allons travailler ensemble afin de définir le besoin et les spécificités de votre application ou site web. Nous en profiterons aussi pour cadrer le pérmimètre du projet."
+    
+  - title : "Design and Develop"
+    icon : "images/icons/design.png"
+    content : "Une fois le cadrage effectué ainsi que la définition des différents livrables, je pourrais commencer par designer et développer votre application web ou site."
+    
+  - title : "Test et recettage"
+    icon : "images/icons/print.png"
+    content : "Pour chaque livrable nous rentrerons dans la phase de recettage et de test et nous itérerons si besoin."

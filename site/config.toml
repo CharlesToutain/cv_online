@@ -1,5 +1,74 @@
 baseURL = "/"
-languageCode = "fr"
-title = "Charles-Edouard"
-theme = "hugo-uilite"
+languageCode = "fr-FR"
+title = "Charles-Edouard Toutain | Consultant IT| WEB ERP CRM |" 
+theme = "kross-hugo"
+summaryLength = "10"
 
+# Plugins
+[params.plugins]
+
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "plugins/bootstrap/bootstrap.min.css"
+  [[params.plugins.css]]
+  URL = "plugins/slick/slick.css"
+  [[params.plugins.css]]
+  URL = "plugins/themify-icons/themify-icons.css"
+
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "plugins/jQuery/jquery.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/bootstrap/bootstrap.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/slick/slick.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/shuffle/shuffle.min.js"
+
+
+  
+# navigation
+[menu]
+    
+  [[menu.main]]
+  name = "A propos"
+  URL = "about"
+  weight = 2
+  
+  [[menu.main]]
+  name = "Blog"
+  URL = "blog"
+  weight = 3
+  
+  [[menu.main]]
+  name = "Portfolio"
+  URL = "portfolio"
+  weight = 4
+  
+  [[menu.main]]
+  name = "Contact"
+  URL = "contact"
+  weight = 5
+
+
+[params]
+logo = "images/logo.png"
+home = "Home"
+# Meta data
+description = "Bonjour ! Charles-Edouard Toutain développeur WEB full stack. Je propose mes services en tant que free-lance pour vos projets web ou application."
+author = "Charles-Edouard Toutain"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+
+  # Preloader
+  [params.preloader]
+  enable = true
+
+  [params.contact]
+  enable = true
+  formAction = "#" #contact form works with formspree.io
+
+  [params.footer]
+  email = "charles-edouard.toutain@outlook.fr"
+  phone = "06 47 72 92 36"
+  address = "19 chemin des châtelets 61000 Alençon"
